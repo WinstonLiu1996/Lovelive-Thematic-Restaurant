@@ -1,0 +1,40 @@
+table, th, td {
+    border: 1px solid white;
+    text-align: center;
+}
+body, html {height: 100%}
+body,h1,h2,h3,h4,h5,h6 {font-family: "Amatic SC", sans-serif}
+.menu {display: none}
+.bgimg {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(../images/restaurant.jpg);
+    min-height: 90%;
+}
+/*#header {
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding:5px;
+}*/
+/*#section2 {
+    background-color:#eeeeee;
+    text-align:center;
+    width:3000;
+    float:right;
+    width: 35%;
+    padding:10px;          
+}*/
+#section {
+    background-color:#eeeeee;
+    width: 100%;
+    text-align:center;
+    padding:10px;        
+}
+#footer {
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+   padding:5px;      
+}

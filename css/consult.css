@@ -1,0 +1,60 @@
+body {
+	background:url(../images/login_bg_0.jpg) #f8f6e9;
+}
+
+.maki {
+	width:477px;
+	height:640px;
+	background:url(../images/maki.png) no-repeat;
+	margin:0 auto;
+	
+	position:absolute;
+	top:35%;
+	left:12%;
+	margin-top:-229px;
+	margin-left:-238px;
+}
+.consult {
+  width:260px;
+  height:620px;
+  background:url(../images/consultbar.png) no-repeat;
+  margin:0 auto;
+  
+  position:absolute;
+  top:42%;
+  left:93%;
+  margin-top:-250px;
+  margin-left:-238px;
+}
+.consult-head {
+	margin:0 auto;
+	padding-top:30px;
+	width:160px;
+}
+.form-consult {
+  max-width: 330px;
+  padding: 20px 15px 15px 15px;
+  margin: 0 auto;
+}
+.form-consult .checkbox {
+  margin-bottom: 10px;
+}
+.form-consult .checkbox {
+  font-weight: normal;
+}
+.form-consult .form-control {
+  position: relative;
+  font-size: 16px;
+  height: auto;
+  padding: 10px;
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+.form-consult .form-control:focus {
+  z-index: 2;
+}
+
+.form-consult button {
+  border-radius: 0;
+}
